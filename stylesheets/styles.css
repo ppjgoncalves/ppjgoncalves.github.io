@@ -341,6 +341,7 @@ footer {
     position: absolute;
     bottom: -1.6em;
     white-space: nowrap;
+    text-align: center;
     opacity: 0;
     visibility: hidden;
 }
