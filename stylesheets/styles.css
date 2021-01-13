@@ -339,7 +339,7 @@ footer {
     color: #222;
     font-size: 140%;
     position: absolute;
-    bottom: -2.1em;
+    bottom: -2.5em;
     left: 0em;
     white-space: nowrap;
     text-align: center;
@@ -348,9 +348,4 @@ footer {
 }
 [data-title] {
     position: relative;
-}
-
-.pseudo-tooltip-wrapper {
-    /*This causes the wrapping element to be the same size as what it contains.*/
-    display: inline-block;
 }
