@@ -348,3 +348,8 @@ footer {
 [data-title] {
     position: relative;
 }
+
+.pseudo-tooltip-wrapper {
+    /*This causes the wrapping element to be the same size as what it contains.*/
+    display: inline-block;
+}
