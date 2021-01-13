@@ -330,7 +330,7 @@ footer {
 
 [data-title]:hover:after {
     opacity: 1;
-    transition: all 0.1s ease 0.5s;
+    transition: all .3s ease-in-out;
     visibility: visible;
 }
 [data-title]:after {
@@ -339,7 +339,6 @@ footer {
     color: #222;
     font-size: 140%;
     position: absolute;
-    padding: -0.5em;
     bottom: -1.6em;
     left: 100%;
     white-space: nowrap;
