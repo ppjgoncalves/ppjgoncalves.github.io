@@ -340,7 +340,6 @@ footer {
     font-size: 140%;
     position: absolute;
     bottom: -1.6em;
-    left: 100%;
     white-space: nowrap;
     opacity: 0;
     visibility: hidden;
