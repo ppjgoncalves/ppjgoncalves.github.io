@@ -340,7 +340,7 @@ footer {
     font-size: 140%;
     position: absolute;
     bottom: -1.6em;
-    left: -1em;
+    left: 0em;
     white-space: nowrap;
     text-align: center;
     opacity: 0;
