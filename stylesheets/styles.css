@@ -343,7 +343,6 @@ footer {
     left: 100%;
     white-space: nowrap;
     opacity: 0;
-    z-index: 99999;
     visibility: hidden;
 }
 [data-title] {
