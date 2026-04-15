@@ -54,6 +54,30 @@
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
 }
 
+.sticky-nav {
+  position: sticky;
+  top: 0;
+  background: #fff;
+  padding: 10px 0;
+  margin-bottom: 20px;
+  z-index: 1000;
+}
+
+.sticky-nav a {
+  margin-right: 15px;
+  color: #39c;       /* matches your current link color */
+  text-decoration: none;
+}
+
+.sticky-nav a:hover {
+  text-decoration: underline;
+}
+
+.sticky-nav {
+  width: 750px;   /* same as your section */
+  float: right;
+}
+
 body {
   background-color: #fff;
   padding:40px;
